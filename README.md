@@ -1,2 +1,2 @@
 # GoogleMaps
-It shows the basic google map plot
+It shows the basic google map plot.
